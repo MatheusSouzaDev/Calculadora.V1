@@ -1,4 +1,4 @@
-# Calculadora V1
+# Calculadora em Java - V1
 
 ## Pré-requisito
 
